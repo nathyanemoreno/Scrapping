@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scrapping</string>
+    <string name="get_list_events">"Get Lista de Eventos "</string>
+    <string name="list_events_title">Lista de eventos do site Even3</string>
+</resources>
